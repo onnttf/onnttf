@@ -1,3 +1,14 @@
+```plaintext
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+|  Don't Push To Production On Friday  |
+|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+              \ (•◡•) / 
+               \     / 
+                 ———
+                |   |
+                |_  |_
+```
+
 - 👋 Hi, I’m @onnttf
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
